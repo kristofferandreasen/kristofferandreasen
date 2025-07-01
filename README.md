@@ -17,7 +17,7 @@ I'm a software architect and full stack developer with a passion for maintainabl
 ![Event-Driven](https://img.shields.io/badge/Event--Driven-FBEFFF?style=flat&logo=data&logoColor=4B4B4B)
 ![DevOps](https://img.shields.io/badge/DevOps-E0F2F1?style=flat&logo=devops&logoColor=4B4B4B)
 
-### Connect with me!
+🔗 Connect with me!
 <div>
     <a href="https://www.linkedin.com/in/kristofferandreasen/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
