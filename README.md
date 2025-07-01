@@ -11,11 +11,11 @@ I'm a software architect and full stack developer with a passion for maintainabl
 
 🚀 Always aiming to build code that's simple, tested, and ready to scale.
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Event-Driven](https://img.shields.io/badge/Event--Driven-Architecture-blueviolet)
-![DevOps](https://img.shields.io/badge/DevOps-FF6C37?style=flat&logo=devops&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-E0E7FF?style=flat&logo=c-sharp&logoColor=4B4B4B)
+![.NET](https://img.shields.io/badge/.NET-EDE9FE?style=flat&logo=dotnet&logoColor=4B4B4B)
+![Azure](https://img.shields.io/badge/Azure-DBEAFE?style=flat&logo=microsoftazure&logoColor=4B4B4B)
+![Event-Driven](https://img.shields.io/badge/Event--Driven-FBEFFF?style=flat&logo=data&logoColor=4B4B4B)
+![DevOps](https://img.shields.io/badge/DevOps-E0F2F1?style=flat&logo=devops&logoColor=4B4B4B)
 
 ### Connect with me!
 <div>
