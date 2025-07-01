@@ -1,4 +1,5 @@
 👋 Hi, I'm Kristoffer Andreasen
+
 I'm a software architect and full stack developer with a passion for maintainable code and cloud-native solutions.
 
 💡 My recent focus areas:
